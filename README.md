@@ -266,3 +266,51 @@
  <fanart>https://abutretorrents.com/imagens/homem-aranha-a-serie-animada-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
  <info>[B][COLOR red] SINOPSE:O desenho começa com Peter Parker ainda adolescente. Ele já tem seus poderes há alguns anos e, acaba de entrar para a faculdade e está todo enrolado para namorar Mary Jane, ao mesmo tempo que vê surgir em sua vida uma galeria de vilões para ninguém botar defeito: Lagarto, Dr. Octopus, Camaleão entre outros. É mostrado também os dedos sujos de Wilson Fisk (o Rei do Crime) por trás de inúmeras tramas, e claro, os duelos com seu antagonista Venom. [COLOR red][/COLOR][/B]</info>	
  </item> 
+ <item> 
+ <title>[B][COLOR white]ThunderCats - [COLOR red]1ª Temporada[COLOR red](1985) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e13113654524fce700753b0d8ddc98abf2204c2$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e13113654524fce700753b0d8ddc98abf2204c2$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/egt8DMFDkGlgSZsh1aifKNv6raU.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Animação / Comédia / Família</genre>
+ <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/egt8DMFDkGlgSZsh1aifKNv6raU.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:ThunderCats conta as aventuras de um grupo de felinos sobreviventes do planeta Thundera. O primeiro episódio da série começa com a destruição de Thundera, forçando os ThunderCats (uma espécie de nobreza Thunderiana) a fugir de seu planeta natal. A frota é atacada pelos inimigos dos Thunderianos, os mutantes de Plun-Darr, que destruíram todas as naves da frota Thunderiana, exceto a nave-mãe, na esperança de capturar a lendária Espada Justiceira (Sword of Omens, no original) que eles acreditam estar a bordo desta. A espada possui o Olho Místico de Thundera, a fonte do poder dos ThunderCats, encrustado na empunhadura. Embora os Mutantes tenham causado danos à nave-mãe, o velho guardião de Lion-O, Jaga, se oferece para pilotar a nave e levá-los em segurança ao “Terceiro Mundo”. No entanto, Jaga morre no processo porque a viagem leva várias décadas, apesar da tecnologia avançada da nave interestelar. Entre os personagens principais estão o jovem lorde dos ThunderCats, Lion-O, e os ThunderCats Cheetara, Panthro, Tygra, WilyKit, WilyKat e Snarf .[COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Os Flitstones - [COLOR red]1ª Temporada[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E0B046E354EA8CFA806BF768E49FDC8E27556389$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E0B046E354EA8CFA806BF768E49FDC8E27556389$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://2.bp.blogspot.com/-HUBsLfB67oI/WyA4KL9T9EI/AAAAAAAAMYo/a4WydLse4PUt3ZO80RDfCaFi76ZXAEWkgCLcBGAs/s1600/Os%2BFlintstones%2Btorrent%2Bdownload%2Bdublad%2Bcompleto.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Animação / Comédia / Família</genre>
+ <fanart>https://2.bp.blogspot.com/-HUBsLfB67oI/WyA4KL9T9EI/AAAAAAAAMYo/a4WydLse4PUt3ZO80RDfCaFi76ZXAEWkgCLcBGAs/s1600/Os%2BFlintstones%2Btorrent%2Bdownload%2Bdublad%2Bcompleto.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Os Flintstones (The Flintstones) o desenho animado preferido de muitos você só encontra aqui no hidratorrent.com e parceiros. Precedido pelo poderoso Yabba dabba doo! de Fred Flintstone, o inconfundível tema musical da série animada Flintstones vêm há décadas funcionando como senha para audiências de todo o mundo: a diversão está chegando. Seja pelo explosivo e divertido temperamento de Fred, pelos risinhos de Wilma, pelas trapalhadas do vizinho Barney ou pelo carinho do "cachorro" Dino. Homenageados por muitos imitados por tantos outros, os Flintstones seguem fazendo a alegria de que os assiste, desde a idade da pedra.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white] Corrida Maluca- [COLOR red]1ª Temporada[COLOR red](1968) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e063e8d44fe6d0cbcde11326f88a1df60257eebd$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e063e8d44fe6d0cbcde11326f88a1df60257eebd$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/c0/Corrida_Maluca.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Animação / Comédia / Família</genre>
+ <fanart>https://upload.wikimedia.org/wikipedia/pt/c/c0/Corrida_Maluca.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Corrida Maluca foi um desenho animado produzido pela Hanna-Barbera e lançado pela CBS que foi produzido entre 14 de setembro de 1968 a 5 de setembro de 1970, rendendo 34 episódios. Os competidores buscavam o título mundial de Corredor Mais Louco do Mundo.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white]Scooby Doo, Cadê Você! - [COLOR red]1ª Temporada[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f089107dec0fd6cfe3a41c15c2820f3ae28dfd71$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f089107dec0fd6cfe3a41c15c2820f3ae28dfd71$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/capas/scooby-doo-cade-voce-download-torrent-1969-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Animação / Comédia / Família</genre>
+ <fanart>https://abutretorrents.com/capas/scooby-doo-cade-voce-download-torrent-1969-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Quatro adolescentes metidos a detetives, Fred, Velma, Daphne e Salsicha, com um cão dinamarquês falante chamado Scooby-Doo, viajam num furgão psicodélico chamado Máquina do Mistério e ajudam a investigar casos misteriosos[COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white] As Aventuras de Jackie Chan - [COLOR red]1ª Temporada[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AF2ACD4038CC356251A48390F6C2A732BB7F8B94$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AF2ACD4038CC356251A48390F6C2A732BB7F8B94$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://image.tmdb.org/t/p/original/46722efNEr177U8XYnuIMGQABzU.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Animação / Comédia / Família</genre>
+ <fanart>https://image.tmdb.org/t/p/original/46722efNEr177U8XYnuIMGQABzU.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Jackie Chan em uma de suas pesquisas encontra um escudo com um talismã e sua vida muda completamente, ele reve seu amigo Capitão Black e tem que deter a Mão Negra e proteger os talismãs para não reavivar Shendu e com a ajuda de Jade, Tio, Capitão Black e a Sessão 13 para deter as forças das trevas[COLOR red][/COLOR][/B]</info>	
+ </item> 
