@@ -1,3 +1,156 @@
+ <item> 
+ <title>[B][COLOR white]A Era do Gelo - Histórias do Scrat - [COLOR red]1ª Temporada[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1728a383a435e9fbe7dc02992f3facc9d49eb44$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1728a383a435e9fbe7dc02992f3facc9d49eb44$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/a-era-do-gelo-historias-do-scrat-1-temporada-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Animação / Comédia / Família</genre>
+ <fanart>https://abutretorrents.com/imagens/a-era-do-gelo-historias-do-scrat-1-temporada-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Em História de Scrat, o infeliz esquilo que está sempre caçando nozes e falhando em armazená-las vai explorar os altos e baixos da paternidade, à medida que ele e o adorável e travesso Baby Scrat se unem e lutam pela posse da preciosa Bolota.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Liga da Justiça - [COLOR red]Todas as 5 temporadas completas [COLOR red](2004) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1135ADA9CEC2CDDB47C2188C3AAD4568E9A6B5AC$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1135ADA9CEC2CDDB47C2188C3AAD4568E9A6B5AC$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/capas/liga-da-justica-completo-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Animação / Aventura / Fantasia / Ficção / Heróis</genre>
+ <fanart>https://abutretorrents.com/capas/liga-da-justica-completo-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Todas as 5 temporadas completas do desenho Liga da Justiça e Liga da Justiça sem Limite. Receosos de que acontecimentos como a invasão thanagariana voltem a ocorrer (vide Escrito nas Estrelas), os membros da Liga da Justiça decidem recrutar mais heróis para defender a Terra e assim saem em busca de novos aliados. A nova formação da equipe trouxe consigo referências às diferentes fases pelas quais a mesma passou ao longo de sua história nos quadrinhos como as presenças da Canário Negro e de Aquaman (fundadores da equipe após Crise nas Infinitas Terras), de alguns dos personagens que integraram a Liga da Justiça Internacional como o Gladiador Dourado, a heroína brasileira Fogo e o Soviete Supremo, sem mencionar os membros das diferentes formações da Sociedade da Justiça da América, desde o veterano Pantera até o contemporâneo Senhor Incrível e a adolescente Sideral. Postos sob a orientação do Caçador de Marte e do Senhor Incrível os heróis são selecionados conforme a disponibilidade e a natureza de cada missão, não raro encerrando as contendas mediante uma exibição ostensiva de poder. Em sua nova fase a equipe se reúne na renovada Torre de Vigilância, remodelada de modo a atender às necessidades da nova formação da equipe. Todavia, agregar tantos seres extraordinários num só local e vê-los operar as mais modernas formas de tecnologia despertou o temor de que os heróis impusessem suas normas de conduta sobre a humanidade, risco que levou o governo norte-americano a financiar uma estratégia de defesa reunida sob o comando de Amanda Waller, a obstinada líder do Projeto Cadmus. Assim, além de terem que lutar contras as mais poderosas ameaças que o universo pôde conceber, os membros da Liga da Justiça têm pela frente a árdua tarefa de convencer a opinião pública de que, ao invés de uma ameaça, eles são, na verdade, os maiores defensores da humanidade.E[COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Wolverine e os X-Men - [COLOR red]1ª Temporada[COLOR red](2008) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6EE15D802E98CED015B9256CD7056C62ED5C740A$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6EE15D802E98CED015B9256CD7056C62ED5C740A$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/capas/wolverine-e-os-x-men-1-temporada-download-torrent-2008-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Animação / Aventura / Drama / Ficção / Heróis</genre>
+ <fanart>https://abutretorrents.com/capas/wolverine-e-os-x-men-1-temporada-download-torrent-2008-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Tudo começa quando o Professor X e Jean Grey tem um forte ataque psíquico, que causa uma explosão, fazendo com que a Mansão X seja destruída e Jean desapareça. Wolverine reúne os heróis e assume a liderança destes. Quem dá as instruções a Wolverine é o próprio Xavier, que está em coma (durará 20 anos). Ele consegue manter contato do futuro com os X-Men, os orientando sobre os acontecimentos que levarão o mundo à destruição (Xavier viu um mundo dominado por robôs, com humanos e mutantes derrotados, sem vencedores). Enquanto isso, Magneto recruta novos membros para a Irmandade de Mutantes: Dominó, Blob, Avalanche e Mercúrio. Pressionada pelos membros da Irmandade, em particular Dominó, Vampira também passa a fazer parte da mesma. Mais tarde, sai por conta própria e se junta novamente aos X-Men. O grupo seqüestra o Senador Robert Kelly, e isso faz com que os humanos odeiem ainda mais os mutantes, os fazendo produzir robôs especiais para os exterminarem: os Sentinelas. Começa então a travar-se uma verdadeira guerra entre os homo sapiens e os homo superior.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+<item> 
+ <title>[B][COLOR white]He-Man e os Defensores do Universo - [COLOR red]1ª Temporada[COLOR red](1984) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0FED7ACD98B09BA5508BCE9D50EE99B550C26B45$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0FED7ACD98B09BA5508BCE9D50EE99B550C26B45$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/capa/he-man-e-os-defensores-do-universo-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Animação / Aventura / Clássico / Família / Fantasia / Ficção / Heróis</genre>
+ <fanart>https://abutretorrents.com/capa/he-man-e-os-defensores-do-universo-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:He-Man se esconde por trás da identidade do Príncipe de Etérnia, Adam, filho do Rei Randor e da Rainha Marlena, um jovem que ganhou a Espada Mágica depois de ser levado ao Castelo de Greyskull pelo amigo Mentor. Erguendo a espada de Greyskull e gritando "Pelos poderes de Greyskull... Eu tenho a Força!" ele transformava-se em He-Man, o homem mais poderoso do universo.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Super Amigos - [COLOR red]1ª Temporada[COLOR red](1973) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D48E9A1A6574B3BE99F4950AB8A5AAFDBDDBD577$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D48E9A1A6574B3BE99F4950AB8A5AAFDBDDBD577$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://2.bp.blogspot.com/-m0XWLkwvwmo/WyvNPbcWMoI/AAAAAAAAMxU/pgcXrVCp8_gFrbrylRiUlboLAlS3ABeuQCLcBGAs/s1600/Super%2BAmigos%2Btorrent%2Bdownload%2Bdublado%2Bcompleto.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Animação / Aventura / Clássico / Heróis</genre>
+ <fanart>https://2.bp.blogspot.com/-m0XWLkwvwmo/WyvNPbcWMoI/AAAAAAAAMxU/pgcXrVCp8_gFrbrylRiUlboLAlS3ABeuQCLcBGAs/s1600/Super%2BAmigos%2Btorrent%2Bdownload%2Bdublado%2Bcompleto.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Super Amigos ou Superamigos (Super Friends) foi um desenho animado de grande sucesso nos anos 70. Superamigos contava com a participação de um casal de irmãos e um cachorro - que sempre se metiam em apuros e forçava os heróis a resgatá-los. A equipe só contava com o Super Homem, Batman e Robin, Mulher Maravilha e o Aquaman. Quando a série foi reprisada, ela se tornou um grande sucesso entre a criançada e incentivou a continuidade do show. Esse e muitos outros desenhos clássicos você só encontra no hidratorrent.com e sites parceiros. Nem todos os personagens de Superamigos faziam parte do elenco da DC Comics. Os Super Gêmeos, Gleek, Chefe Apache, Samurai, El Dorado, Vulcão Negro, Wendy, Marvin e Supercão foram criados pela Hanna-Barbera especialmente para a série.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Capitão Planeta- [COLOR red]1ª Temporada[COLOR red](1990) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86E039F9FB7026A2B80187AEB3C878F74B214F87$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86E039F9FB7026A2B80187AEB3C878F74B214F87$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://4.bp.blogspot.com/-7771DDsXXCQ/Wy5YExI8YJI/AAAAAAAAM2o/GEoQIObbdnArt-Yn_bMtOSJsHwhvypTJACLcBGAs/s1600/Capit%25C3%25A3o%2BPlaneta%2Btorrent%2Bdownload%2Bdublado%2Bcompleto.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Animação / Aventura / Clássico / Comédia / Heróis</genre>
+ <fanart>https://4.bp.blogspot.com/-7771DDsXXCQ/Wy5YExI8YJI/AAAAAAAAM2o/GEoQIObbdnArt-Yn_bMtOSJsHwhvypTJACLcBGAs/s1600/Capit%25C3%25A3o%2BPlaneta%2Btorrent%2Bdownload%2Bdublado%2Bcompleto.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Capitão Planeta, o desenho animado clássico que encantou toda uma geração no início dos anos 90. Cinco adolescentes, que a princípio não possuem quase nada em comum, decidem unir forças para lutar por um objetivo maior: salvar o planeta Terra. Além de planejarem maneiras de tornar a sociedade mais sustentável, eles também convocam um super-herói para encabeçar essa incrível missão e lidar com os desastres ecológicos que assolam o mundo. Esse e muitas outras séries animadas clássicas você encontra apenas no hidratorrent.com e nos sites parceiros.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]X-Men - Evolution - [COLOR red]1ª Temporada[COLOR red](2000) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:470ABCFB25C5BA04190E35779421C79802B2E6CA$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:470ABCFB25C5BA04190E35779421C79802B2E6CA$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://i.imgur.com/BjHIKoK.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Aventura / Ficção / Heróis</genre>
+ <fanart>https://i.imgur.com/BjHIKoK.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE: X-Men Evolution é uma série que conta a história da juventude dos X-Men, os super-heróis da Marvel. O começo da série foca no confronto e relacionamento dos X-Men com a Irmandade, em busca de conseguir novos aliados e novos recrutas. A série conta a hist´roa de como cada mutante foi parar na equipe dos X-Men.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white]Caverna do Dragao- [COLOR red]Serie Completa[COLOR red](1983) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c319322bbdb5dc4f3bf63a26c06b80e5dae8df71$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c319322bbdb5dc4f3bf63a26c06b80e5dae8df71$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://i.imgur.com/PJXY1vk.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Aventura / Heróis</genre>
+ <fanart>https://i.imgur.com/PJXY1vk.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:A abertura do primeiro ano da série mostra um grupo de seis jovens em um parque de diversões embarcando em uma montanha russa chamada "Dungeons & Dragons". Contudo, durante o passeio, um portal se abre e transporta as crianças para outro mundo, chamado simplesmente de "Reino", no qual o grupo já aparece trajando outras roupas e recebendo logo em seguida armas mágicas — as Armas do Poder — de alguém que se apresenta como o Mestre dos Magos (Dungeon Master, no original, termo também presente nos jogos de role-playing game que deram origem à série). A partir daí, os jovens passam por diversas aventuras buscando voltar para casa, durante as quais o Vingador, um mago maléfico, tenta a todo custo tomar as Armas do Poder dos jovens com a intenção de derrotar tanto o Mestre dos Magos quanto Tiamat, para assim dominar o Reino. Ao longo do seriado, revela-se que o Vingador é, na realidade, filho do Mestre dos Magos.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Batman - A Série Animada- [COLOR red]TODOS OS EPISÓDIOS[COLOR red](1992) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:09e25bfc8c469014140fb81a22634c2d84562c55$nome=[COLOR lime]1ª TEMPORADA [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:130bf0e391ab70497ab139a6b627ddbf10b00d4f$nome=[COLOR lime]2ª TEMPORADA[/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79eeb822f4c38440ee8b80ed191494d8445f6fff$nome=[COLOR lime]3ª TEMPORADA[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://i.imgur.com/qyUYeVQ.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Aventura / Heróis</genre>
+ <fanart>https://i.imgur.com/qyUYeVQ.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE: Batman: A Série Animada, chamada em inglês de Batman: The Animated Series (muitas vezes abreviado Batman: TAS), é uma série de animação baseada no super-herói da DC Comics Batman. Foi aclamada pela crítica: venceu quatro prêmios Emmy, indicado para seis pessoas. É conhecida por ser a primeira a se passar no que se convencionou chamar DC Animated Universe, ou Universo Animado DC. Foi produzido pela Warner Bros. Animation.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+<item> 
+ <title>[B][COLOR white]Superman: A Serie Animada - [COLOR red]TODOS OS EPISÓDIOS[COLOR red](1996) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56D7715B754D6A21F630D43D0CCCFB4F36261130$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56D7715B754D6A21F630D43D0CCCFB4F36261130$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://i.imgur.com/iz9ZW6u.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Animação / Aventura / Heróis</genre>
+ <fanart>https://i.imgur.com/iz9ZW6u.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:A série mostra uma breve parte da infância do Superman no planeta Krypton até sua chegada a terra. Também merece destaque por mostrar Brainiac como Kryptoniano e Lex Luthor, como criador de Metallo e Bizarro. Obteve participação de muitos outros personagens do universo DC Comics, como Batman (Kevin Conroy) e Aço e teve os mesmos designs de Batman: The Animated Series. O programa foi exibido nos E.U.A de 1996 a 2000 pelos canais Toon Disney e Disney XD; já no Brasil foi exibida no começo dos anos 2000 pelos canais de TV, SBT e Rede Record.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white]X-Men (Classico)- [COLOR red]TODOS AS TEMPORADAS[COLOR red](1992) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ac6919fa62429a669f0cb91f83f3d177346b4ddd$nome=[COLOR lime]1ª TEMPORADA[/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dcdc1c09dc56420cf4a2e01795dcaba6ea8ddde8$nome=[COLOR lime]2ª TEMPORADA[/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02ba2ad78e1f9f5f2d335e9b47c485cae4169544$nome=[COLOR lime]3ª TEMPORADA[/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cbc06adfe36b9489e83041141e4a1a06c27dc49c$nome=[COLOR lime]4ª TEMPORADA[/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b7e1095d1f8cb952ae2094082531904fbc41c818$nome=[COLOR lime]5ª TEMPORADA[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://i.imgur.com/vm5LO8N.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Aventura / Clássico / Heróis</genre>
+ <fanart>https://i.imgur.com/vm5LO8N.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:X-Men Animated Series, ou somente, X-Men, é um desenho animado baseada nos X-Men. Criado em 1992, exibido na FOX1 e produzido por Larry Houston, a série trouxe uma das mais conhecidas formações dos X-Men: Ciclope, Wolverine, Tempestade, Professor Xavier, Gambit, Vampira, Fera, Jubileu e Jean Grey. O desenho fez um sucesso incrível na época, e foi o desenho de maior exibição na Fox. O desenho fala muito sobre racismo, intolerância e religião. Além disso, uma das marcas registradas da série é o famoso tema dos X-Men, composto do Michael Kamen. A série durou 5 temporadas, com um total de 76 episódios, encerrando em 1997. No Brasil, foi exibida na edição de sábado da TV Globinho até o mesmo ser substituído pelo programa TV Xuxa. A série voltou a ser exibida na TV Globinho diária por um curto período.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+ 
+
+ <item> 
+ <title>[B][COLOR white]Mutante Rex - [COLOR red]TODOS AS TEMPORADAS[COLOR red](2010) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C71F570534223BBCDB7660FE01F371464F1EDB94$nome=[COLOR lime]1ª TEMPORADA[/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D0098524A964F0328185CB55A62D5BD478EE1921$nome=[COLOR lime]2ª TEMPORADA[/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E4EBFD988C4BAF05CEA5A55B5530890A49554E0E$nome=[COLOR lime]3ª TEMPORADA[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://2.bp.blogspot.com/--RsNpnvWSDk/WpMGa7NqKbI/AAAAAAAAI6c/vy6XUewhgjkuJCJTtFO7yvyBAmGnwsZAQCLcBGAs/s1600/mutante%2Brex%2Bdownload%2Btorrent%2Bdublado%2Bcompleto.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Animação / Aventura / Ficção / Heróis</genre>
+ <fanart>https://2.bp.blogspot.com/--RsNpnvWSDk/WpMGa7NqKbI/AAAAAAAAI6c/vy6XUewhgjkuJCJTtFO7yvyBAmGnwsZAQCLcBGAs/s1600/mutante%2Brex%2Bdownload%2Btorrent%2Bdublado%2Bcompleto.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Cinco anos antes do início da série animada, uma enorme explosão lançou nanites no ambiente, contaminando todos os seres vivos da Terra. Estes nanites ativam-se aleatoriamente dentro de seus hospedeiros, transformando-os em monstros conhecidos como E.V.O (Exponentially Variegated Organism, no Brasil, Estrutura Variegada Organica). Estes geralmente são criaturas irracionais e agressivas, representando um grande perigo a tudo que esteja ao seu redor. Para combater a ameaça EVO, uma organização conhecida como Providência foi criada para capturar, matar ou curá-los. Rex é um adolescente de 15 anos de idade que sofre de amnésia, e como todo mundo, ele foi infectado pelos nanites. No entanto, ao contrário da maioria dos EVOs, Rex pode controlar os seus nanites, permitindo-lhe manifestar uma grande variedade de poderes e até mesmo curar outros EVOS de suas mutações. Trabalhando com a organização Providência, sob o comando do Agente Seis, ele ajuda a parar os EVOS à medida que eles aparecem. Do lado oposto, trabalhando contra a Providência, há Van Kleiss, um EVO que possui conexões ao incidente responsável pela liberação dos nanites e ao próprio Rex.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+
+ <item> 
+ <title>[B][COLOR white]Super Choque - [COLOR red]1ª Temporada[COLOR red](2000) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6e6c3a3364c9f7c4297ea48c402f321e8f1ebda3$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6e6c3a3364c9f7c4297ea48c402f321e8f1ebda3$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://2.bp.blogspot.com/-bmlEN8ydgIA/WO0nFhfnLoI/AAAAAAAABzs/ycLIYWplVrgi6UMdsivGEZt3A6DC3ZgZQCLcB/s1600/super-shock-torrent.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Aventura / Heróis</genre>
+ <fanart>https://2.bp.blogspot.com/-bmlEN8ydgIA/WO0nFhfnLoI/AAAAAAAABzs/ycLIYWplVrgi6UMdsivGEZt3A6DC3ZgZQCLcB/s1600/super-shock-torrent.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Virgil é um adolescente que vive em uma cidade tranqüila chamada Dakota. Depois de uma explosão de gases experimentais provocada no cais da cidade, que foi chamada de Big Bang, a cidade de Dakota se vê cheia de pessoas que respiraram o gás mutagênico e assim ganharam super-poderes. Virgil ganhou poderes elétricos e decidiu tornar-se um Super-Herói, e assim criou o disfarce de Super Choque. O desenho retrata a vida de um garoto negro lidando com a vida, a escola, os preconceitos, as desigualdades sociais e ainda enfrentando vários inimigos com seus super-poderes e uma incrível dose de bom humor para manter a cidade de Dakota em paz. Baixe Super Shock por torrent e se divirta com esse clássico.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+ 
+ <item> 
+ <title>[B][COLOR white]Mortal Kombat - [COLOR red]1ª Temporada[COLOR red](1996) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:344D40146EC66B3423641C908C98DCAFB4E1E016$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:344D40146EC66B3423641C908C98DCAFB4E1E016$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://i.imgur.com/wKHU78G.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Animação / Comédia / Família</genre>
+ <fanart>https://i.imgur.com/wKHU78G.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Mortal Kombat - Defensores do Reino é um desenho do aclamado jogo Mortal Kombat. Ela relata as batalhas contra Shao Kahn e o seu exército, para impedir que eles dominem a terra. Um desenho repleto de lutas e aventuras incríveis.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+ 
+ <item> 
+ <title>[B][COLOR white]Surfista Prateado - [COLOR red]1ª Temporada[COLOR red](1998) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:286909322AD8D2692535BFB4628C030F9313FBA5$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:286909322AD8D2692535BFB4628C030F9313FBA5$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://i.imgur.com/eHyGhMU.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Animação / Comédia / Família</genre>
+ <fanart>https://i.imgur.com/eHyGhMU.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Em 1998, a Fox Kids exibiu o desenho do Surfista Prateado. Foram 13 episódios misturando animação bem básica com efeitos digitais num desenho bem deprê! Era silencioso, triste, e o último episódio não tinha fim, pois continuaria na 2ª temporada, que não foi produzida. O 1º episódio é narrado pelo Vigia, e mostra como Norrin Radd se transforma no Surfista. Nessa versão, o Surfista enfrenta Galactus ao chegar à Terra, mas não tem Quarteto, nem Alicia Masters. O que fez ele recuperar sua consciência foi um encontro com o vilão Thanos. E o Surfista não fica preso na Terra, em vez disso, Galactus condenou-o a vagarpelo espaço sem nunca encontrar seu planeta natal, que foi escondido pelo gigante.[COLOR red][/COLOR][/B]</info>	
+ </item> 
 
  
  <item> 
@@ -112,13 +265,4 @@
  <genre>[B][COLOR firebrick]Animação / Ação / Aventura / Família / Ficção / Clássico </genre>
  <fanart>https://abutretorrents.com/imagens/homem-aranha-a-serie-animada-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
  <info>[B][COLOR red] SINOPSE:O desenho começa com Peter Parker ainda adolescente. Ele já tem seus poderes há alguns anos e, acaba de entrar para a faculdade e está todo enrolado para namorar Mary Jane, ao mesmo tempo que vê surgir em sua vida uma galeria de vilões para ninguém botar defeito: Lagarto, Dr. Octopus, Camaleão entre outros. É mostrado também os dedos sujos de Wilson Fisk (o Rei do Crime) por trás de inúmeras tramas, e claro, os duelos com seu antagonista Venom. [COLOR red][/COLOR][/B]</info>	
- </item> 
-<item> 
- <title>[B][COLOR white] Caverna do Dragão-[COLOR red]Completo[COLOR red](1983) [/COLOR][/B]</title>
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c319322bbdb5dc4f3bf63a26c06b80e5dae8df71$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81F8C4AC8315F187561CFA70A5C39F78C8BC2C16$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
- <thumbnail>https://abutretorrents.com/capas/caverna-do-dragao-completo-download-torrent-1983-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
- <genre>[B][COLOR firebrick]Animação / Aventura / Clássico / Comédia / Fantasia</genre>
- <fanart>https://abutretorrents.com/capas/caverna-do-dragao-completo-download-torrent-1983-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
- <info>[B][COLOR red] SINOPSE:Dungeons & Dragons (promovida como Caverna do Dragão no Brasil) é uma série de animação co-produzida pela Marvel Productions, TSR, e Toei Animation. Baseada no homônimo RPG, possui 27 episódios e três temporadas, transmitidos originalmente entre os anos de 1983 e 1986 pela rede norte-americana de televisão CBS. A série conta a história de seis típicas crianças dos anos 80, que tentam voltar ao seu mundo após chegarem ao Reino de Dungeons & Dragons em um passeio de montanha russa. [COLOR red][/COLOR][/B]</info>	
  </item> 
