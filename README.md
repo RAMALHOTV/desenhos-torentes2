@@ -314,3 +314,55 @@
  <fanart>https://image.tmdb.org/t/p/original/46722efNEr177U8XYnuIMGQABzU.jpg</fanart>
  <info>[B][COLOR red] SINOPSE:Jackie Chan em uma de suas pesquisas encontra um escudo com um talismã e sua vida muda completamente, ele reve seu amigo Capitão Black e tem que deter a Mão Negra e proteger os talismãs para não reavivar Shendu e com a ajuda de Jade, Tio, Capitão Black e a Sessão 13 para deter as forças das trevas[COLOR red][/COLOR][/B]</info>	
  </item> 
+ 
+
+
+ <item> 
+ <title>[B][COLOR white]Jonny Quest- [COLOR red]Lançamento[COLOR red]( 1964) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:209d8fb5c0c86de2a06b94e5aa42dd1177f7fdcc$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:209d8fb5c0c86de2a06b94e5aa42dd1177f7fdcc$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/capas/jonny-quest-1-temporada-completa-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Animação / Ação / Aventura / Comédia / Drama / Família / Ficção / Clássico</genre>
+ <fanart>https://abutretorrents.com/capas/jonny-quest-1-temporada-completa-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:A primeira série animada da TV vai levá-lo a um passeio de tirar o fôlego. Aqui reunidos, estão todos os 26 episódios do primeiro ano da série, mostrando as fantásticas aventuras do corajoso garoto de 11 anos Jonathan Quest em um Kit Deluxe de quatro discos. Encontre ainda extras inéditos e raridades dos cofres de Hanna-Barbera. Diferentemente das repetitivas e vazias séries que o precederam, Jonny Quest usou lógica científica de investigação para solucionar mistérios e aprisionar vilões sofisticados. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Capitão Caverna e as Panterinhas  - [COLOR red]Lançamento[COLOR red](1977) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AC9632E32E8AE1C6E8DE9A2B76F46F55C16587F1$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AC9632E32E8AE1C6E8DE9A2B76F46F55C16587F1$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/capas/capitao-caverna-e-as-panterinhas-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Animação / Clássico / Comédia / Família / Mistério</genre>
+ <fanart>https://abutretorrents.com/capas/capitao-caverna-e-as-panterinhas-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Um desenho da década de 1970, criado por Joe Ruby e Ken Spears, e produzido pela Hanna-Barbera Productions. Foi transmitida originalmente no canal de televisão norte-americano American Broadcasting Company (ABC), de 10 de setembro de 1977 a 21 de junho de 1980. No Brasil, foi exibido pela última vez no Sábado Animado no Sistema Brasileiro de Televisão (SBT). Seu protagonista era o Capitão Caverna, um ser baixinho, troglodita, coberto de pelos e sempre com um porrete em mãos. Estava acompanhado por três garotas (uma paródia das Panteras), nos desenhos: Brenda, Tiffan e Jamie. No Brasil, as Teen Angels são chamadas Brenda, Kelly e Sabrina. Torrent exclusivo do nosso site! A qualidade dos episódios varia bastante, mas é o melhor que encontramos por ser um desenho dos anos 70. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]SilverHawks- [COLOR red]Lançamento[COLOR red](1986) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8102138DCCE210FD56977EBC9DD23F683F1F24C4$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E9C24DE914DE05B3DCAC4C9530AEC14810517E9D$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/capas/silver-hawks-legendado-download-torrent-1986-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://abutretorrents.com/capas/silver-hawks-legendado-download-torrent-1986-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Os ciborgues Silver Hawks possuíam habilidades especiais, como voar em asas de prata ou lutar com nervos de aço. Parte metal, parte carne, esses guerreiros sacrificaram seus corpos humanos, modificando-os para suportar o estresse das longas jornadas através do espaço até à Galáxia de Limbo, para onde foram enviados com a missão de defender o Universo do terrível Monstro Estelar. A equipe ficava sempre de prontidão, no quartel-general em órbita, o Ninho dos Falcões, até o surgimento de alguma ameaça. Entre eles estavam o líder, QuickSilver, e seu companheiro Falcão Biônico, o invencível satélite espião-interceptador. O Tenente Jonathan Quick era o ex-chefe da Força Interplanetária H e líder de campo dos SilverHawks. Sua armadura, cujas "armas especiais" são dois pequenos canhões laser em seus ombros, tinha a tonalidade de prata mais clara do quinteto, Comandante Stargazer era um velho e enrugado policial espacial com capacidades biônicas graças a implantes mecatrônicos instalados em seu corpo. Ele havia capturado o Monstro Estelar vários anos atrás, mantendo-o preso no Planeta Penal 10, já Coronel Bluegrass era o principal piloto do grupo e também um típico vaqueiro. Ele pilotava a nave da equipe, Maraj, que possuia um sistema de navegação autônoma a quem ele chama afetivamente "Belezinha", e os irmãos gêmeos Sargentos Emily e Will Hart, os únicos SilverHawks que tiveram seus verdadeiros corações orgânicos substituídos por próteses de aço inoxidável durante a transformação. Tinham poderes telepáticos, o que lhes conferiam um tipo de "elo psíquico" em suas mentes, e CopperKid, o único não-humano do quinteto, um gênio matemático do Planeta dos Mímicos. Sua face era pintada sob a aparência de um mímico. Ele não sabia falar, só se comunicava em tons e assobios matematicamente calculados. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+<item> 
+ <title>[B][COLOR white]Dennis, o Pimentinha - [COLOR red]Lançamento[COLOR red](1980) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:440AF1073BC9987E8FB9E79A014C1F3D996A9044$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:440AF1073BC9987E8FB9E79A014C1F3D996A9044$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://i.imgur.com/7GO0Y7n.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://i.imgur.com/7GO0Y7n.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Dennis, o Pimentinha foi um desenho animado norte-americano produzido entre 1986 e 1988, baseado nas histórias em quadrinhos de Hank Ketcham. No Brasil foi exibido pelo SBT durante as décadas de 1980 e 1990. O seriado conta a história do garoto Dennis que vive entrando em diversas encrencas por causa do seu jeito aventureiro.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+<item> 
+ <title>[B][COLOR white]Cavalo de Fogo- [COLOR red]Lançamento[COLOR red](1986) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a4e4fbd502f364a4e55b27c886c210f9bd81692$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a4e4fbd502f364a4e55b27c886c210f9bd81692$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://i.imgur.com/ZRIOm9B.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Animação / Aventura / Clássico</genre>
+ <fanart>https://i.imgur.com/ZRIOm9B.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE: Quando era apenas um bebê, a princesa Sara foi salva das garras de uma bruxa maligna, conhecida como Lady Diabolyn, por um místico cavalo falante chamado Cavalo de Fogo, que a conduziu do planeta Dar-Shan para um local seguro, em um rancho em Montana, no oeste norte-americano. Ela é então cuidada por um homem conhecido como John Cavanaugh. Por volta dos 13 anos de idade, Sara percebe que seu medalhão começa a brilhar. Logo, descobre que o amuleto é mágico e capaz de enviar um aviso ao cavalo que a salvou. O Cavalo de Fogo enfim conta à Sara sobre quem ela realmente é: a princesa do reino de Dar-Shan, situado em outra dimensão, filha da Rainha Sarana e do Príncipe Kevin. Sara descobre também que Diabolyn é irmã de sua mãe, sobre a qual Diabolyn lançou um feitiço para abdicar do trono. Ao atravessar o portão dimensional para Dar-Shan, Sara conhece alguns aliados na luta contra Diabolyn: um feiticeiro chamado Alvinar (que também era conselheiro de sua mãe), um potro covarde chamado Brutus e seu dono, o jovem Dorin. Diabolyn, por sua vez, conta com ajuda de espectros demoníacos para se tornar a rainha de Dar-Shan, além de estranhas criaturas lideradas por Dweedle. [COLOR red][/COLOR][/B]</info>	
+ </item> 
